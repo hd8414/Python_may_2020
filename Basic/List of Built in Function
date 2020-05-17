@@ -3,3 +3,30 @@
 2. type () -  to know type of Variable ( Int, Float, Boolean )
 
 3. len () - to know length of string
+
+
+# Builtin Functions:
+
+45	len
+46	sum
+47	max
+48	min
+49	zip
+50	sorted
+51	map
+52	filter
+53	reduce
+54	any
+55	all
+56	enumerate
+57	str
+58	repr
+59	bin
+60	oct
+61	hex
+62	chr
+63	ord
+64	type
+65	isinstance
+66	dir
+67	hasattr
